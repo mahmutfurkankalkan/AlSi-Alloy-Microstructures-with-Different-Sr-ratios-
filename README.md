@@ -58,7 +58,7 @@ If you use or adapt these scripts or workflows in your research, **citation of t
 
 ## 📬 Image Access
 
-his repository provides the full analysis pipeline. For those interested in applying the scripts to relevant microstructure datasets, example images may be provided upon academic request. Please contact the author for further details.
+This repository provides the full analysis pipeline. For those interested in applying the scripts to relevant microstructure datasets, example images may be provided upon academic request. Please contact the author for further details.
 ---
 
 ## 👤 Author
