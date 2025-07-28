@@ -58,8 +58,7 @@ If you use or adapt these scripts or workflows in your research, **citation of t
 
 ## 📬 Image Access
 
-Although the images have been removed for repository size and publication reasons, they are available **upon reasonable academic request**. If you are interested in accessing the original SEM dataset, please contact the author through GitHub or institutional email.
-
+his repository provides the full analysis pipeline. For those interested in applying the scripts to relevant microstructure datasets, example images may be provided upon academic request. Please contact the author for further details.
 ---
 
 ## 👤 Author
