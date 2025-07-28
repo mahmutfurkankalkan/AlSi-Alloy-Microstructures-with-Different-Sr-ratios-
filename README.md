@@ -34,7 +34,7 @@ This repository provides a set of Python scripts originally developed for the au
 ## ⚠️ Important Considerations
 
 ### 🖼️ Image Characteristics Matter
-The scripts assume grayscale SEM images of fixed size (ideally **512×512 pixels**). If using images with different resolution, magnification, or contrast, you should adjust preprocessing steps such as thresholding, resizing, and filtering.
+The scripts assume grayscale SEM images of fixed size (ideally **could be changed depend on the requirements**). If using images with different resolution, magnification, or contrast, you should adjust preprocessing steps such as thresholding, resizing, and filtering.
 
 ### 📏 Measurement Units
 All area and length measurements (e.g., SDAS) are calculated in **pixel units**. To convert values to microns, appropriate **scale calibration** is required based on magnification or embedded scale bars in the original images.
@@ -52,7 +52,7 @@ These scripts are designed for **academic and research purposes only**. They are
 If you use or adapt these scripts or workflows in your research, **citation of the original study is mandatory**. This repository is part of a peer-reviewed academic study, and proper attribution supports transparency and research integrity.
 
 > **Suggested citation:**  
-> **Kalkan, M.F.** (2025). *Automated Microstructure Analysis and SDAS Measurement of AlSi Alloys Using Python-based Image Processing*. GitHub Repository.
+> **Kalkan, M.F.**????. ???????????????????????????*. GitHub Repository.
 
 ---
 
